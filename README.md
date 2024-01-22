@@ -1,4 +1,4 @@
-This is an outdated old project based on Google Drive APIs.
+This is an old project based on Google Drive APIs made with Java & JavaFX in Netbeans IDE.
 
 Youtube Video https://www.youtube.com/watch?v=j5ua5Bu-SlQ 
 
